@@ -1,0 +1,10 @@
+﻿  Ray.cpp
+  RayTracer.cpp
+  Sphere.cpp
+  Vector3.cpp
+  World.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 198 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayTracer.vcxproj -> C:\Users\Theo\source\repos\RayTracer\StaticRelease\RayTracer.exe
